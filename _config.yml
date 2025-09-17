@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Yunus Ozturk, Ph.D."
+title                    : "Lecturer Dr. Yunus Ozturk"
 title_separator          : "-"
 name                     : &name "Yunus Ozturk"
-description              : &description "Yunus Ozturk's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Yunus Ozturk's Academic Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Yunus Ozturk"
   pronouns         : "he/him"  
-  bio              : "Political Violence | Civil Wars| Human Security| Environmental Security | Middle East & North Africa | Africa/Horn of Africa"  
+  bio              : "Political Violence | Civil Wars | Human Security | Environmental Security | Middle East & North Africa | Africa/Horn of Africa"  
   location         : "Rize, Turkiye"
   employer         : "Recep Tayyip Erdogan University"
   uri              : "https://avesis.erdogan.edu.tr/y.ozturk"
@@ -61,7 +61,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "ynsozturk41"
   lastfm           : # Username
   linkedin         : "yunus-ozturk-0044aa113"
   mastodon         : # URL
